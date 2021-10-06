@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Automower</title>
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+    
+    <body>
+
+        <script src="js/lib/jquery-3.6.0.min.js"></script>
+        <script type="module" src="js/scripts/automower.brain.js"></script>
+
+        <!-- My automower body @pape-clem -->
+
+        <div class="container file-selector-container">
+
+            <form class="form">
+                <div class="file-upload-wrapper" data-text="Select your file!">
+                    <input id="inputfile_automowers" name="file-upload-field" type="file" class="file-upload-field" value="" onclick="this.value=null;" accept=".txt">
+                </div>
+            </form>
+
+        </div>
+
+        <div class="container">
+
+            <div id="grid-lawn"></div>
+
+            <div id="sidebar">
+                <h2>Results</h2>
+                <ol id="list-results"></ol>
+            </div>
+
+        </div>
+
+    </body>
+</html>
