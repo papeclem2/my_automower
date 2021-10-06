@@ -33,9 +33,9 @@ LFLFLFLFF
 FFRFFRFRRF
 ```
 
-Run IRL example:
+Run example:
 
-![alt text](https://github.com/papeclem/Rifa-public/blob/c19a6a1607b85b22a793d0cdd04a1b9cd09d4c5e/src/rifa/static/assets/pres-rifa.gif "This is My Automower project!")
+![alt text](https://github.com/papeclem/my_automower/blob/main/assets/img/example_use_myautomower.gif "This is My Automower project!")
 
 ## Built With
 * JS ES6 +
