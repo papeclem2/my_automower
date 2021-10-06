@@ -33,6 +33,9 @@ LFLFLFLFF
 FFRFFRFRRF
 ```
 
+In the confirm popup, click "OK" to execute actions step by step or "Cancel" to directly go to result.
+Check results in the right sidebar.
+
 Run example:
 
 ![alt text](https://github.com/papeclem/my_automower/blob/main/assets/img/example_use_myautomower.gif "This is My Automower project!")
