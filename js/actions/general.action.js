@@ -3,7 +3,7 @@
  * @author clem
  */
 
-import * as Utils from "../scripts/utils.brain";
+import * as Utils from "../scripts/utils.brain.js";
 
 export default class Action {
 

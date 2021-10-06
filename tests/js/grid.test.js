@@ -10,5 +10,6 @@
         assert.equal(960, sizeGridPX, `Result ${960}, expected: ${sizeGridPX}`);
       });
     
-    // TODO : other tests with entities, functions, methods, throws exceptions, etc.
 });
+
+// TODO : other tests with entities, functions, methods, throws exceptions, etc.

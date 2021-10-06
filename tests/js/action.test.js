@@ -32,5 +32,6 @@ QUnit.module('Actions Tests', function() {
         assert.equal(isOutOfLawn(x, y, maxX, maxY), false, `Result ok expected: ${false}`);
     });
     
-    // TODO : other tests with entities, functions, methods, throws exceptions, etc.
 });
+
+// TODO : other tests with entities, functions, methods, throws exceptions, etc.

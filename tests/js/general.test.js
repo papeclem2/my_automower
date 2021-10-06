@@ -39,5 +39,6 @@ QUnit.module('General Automower Tests', function() {
     assert.equal(Object.values(ORIENTATIONS).length, 3, `Result orientations length ${ORIENTATIONS.length}, expected: ${3}`);
   });
 
-  // TODO : other tests with entities, functions, methods, throws exceptions, etc.
 });
+
+// TODO : other tests with entities, functions, methods, throws exceptions, etc.

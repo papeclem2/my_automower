@@ -1,6 +1,6 @@
 import Automower from '../entities/automower.js';
 import Position from '../entities/position.js';
-import * as Utils from '../scripts/utils.brain.js'
+import * as Utils from '../scripts/utils.brain.js';
 
 /**
  * Function wich allows u to read an automower position & orientation line from the file
