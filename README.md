@@ -27,6 +27,7 @@ You can upload txt files (let's see examples inside "/tests/resources/").
 Here, a txt file content example :
 
 ```
+5 5
 1 2 N
 LFLFLFLFF
 3 3 E
