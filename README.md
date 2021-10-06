@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Running the project
-Open 'index.html' to show the main page wich allows you to upload a txt file and get the result.
+Open 'index.html' to show the main page that allows you to upload a txt file and get the result.
 
 
 ### Unit tests (QUnit)
@@ -24,7 +24,7 @@ This is unit tests, I have to enrich it, I know ^^ !
 ### How it works
 You can upload txt files (let's see examples inside "/tests/resources/").
 
-Here, txt file content example :
+Here, a txt file content example :
 
 ```
 1 2 N
