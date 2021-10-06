@@ -12,27 +12,26 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Running the project
-
 Open 'index.html' to show the main page wich allows you to upload a txt file and get the result.
 
 
 ### Unit tests (QUnit)
-
 Go to the page "/tests/test.html".
 This is unit tests, I have to enrich it, I know ^^ !
 
 ![alt text](https://github.com/papeclem/my_automower/blob/main/assets/img/QUnit_Tests_ok.jpg "This is unit tests, I have to improve it, I know!")
 
 ### How it works
-
-You can upload txt files (let's see examples inside /tests/resources/).
+You can upload txt files (let's see examples inside "/tests/resources/").
 
 Here, txt file content example :
 
+```
 1 2 N
 LFLFLFLFF
 3 3 E
 FFRFFRFRRF
+```
 
 Run IRL example:
 
